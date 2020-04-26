@@ -7,7 +7,6 @@ from numpy import linalg as LA
 import csv
 
 
-#选择了feature，小时
 
 #load the dataset
 x = np.load('x.npy')
